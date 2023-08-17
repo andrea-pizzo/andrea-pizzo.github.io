@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am postdoctoral scholar in the [WiSeCom](https://www.upf.edu/web/wisecom) group at [Universitat Pompeu Fabra](https://www.upf.edu), Barcelona, supervised by [Prof. Angel Lozano](https://www.upf.edu/web/angel-lozano). Before that, I was a postdoctoral scholar with [Prof. Thomas Marzetta](https://wireless.engineering.nyu.edu/thomas-marzetta/) for two years in the [NYU Wireless](https://wireless.engineering.nyu.edu) group at New York University(https://engineering.nyu.edu), USA. I received my Ph.D. degree in Information Engineering at the [University of Pisa](https://www.unipi.it), Italy, under the supervision of [Prof. Luca Sanguinetti](https://people.unipi.it/luca_sanguinetti/). 
 
+A common thread in my research is the theoretical understanding of physical-layer wireless communications using mathematical tools borrowed from multiple disciplines such as communication theory, electromagnetic theory, statistical signal processing, and information theory.
+
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
