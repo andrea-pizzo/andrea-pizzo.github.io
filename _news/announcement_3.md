@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-03-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am now an Associate Editor for the journal IEEE Wireless Communications Letters.
+#A simple inline announcement with Markdown emoji! :sparkles: :smile:
