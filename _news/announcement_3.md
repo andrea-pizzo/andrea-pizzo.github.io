@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I am now an Associate Editor for the journal IEEE Wireless Communications Letters.
-#A simple inline announcement with Markdown emoji! :sparkles: :smile:
