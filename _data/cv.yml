@@ -60,5 +60,6 @@
 - title: Academic Services
   type: time_table
   contents:
-    - title: Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-wcl">IEEE Wireless Communications Letters</a>
-     year: Mar 2023 - Current.
+    - title: Associate Editor 
+      year: Mar 2023 - Current
+      description: aaa
