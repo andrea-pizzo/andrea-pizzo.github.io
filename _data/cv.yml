@@ -46,17 +46,10 @@
       description: 
       - Prof. Geert Leus.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Young Author Best Paper Award by the IEEE ComSoc/VTS (Italy Chapter)
+    - title: <a href="https://italy.ieeer8.org/young-author-best-paper-award-2018/">Young Author Best Paper Award by the IEEE ComSoc/VTS (Italy Chapter)</a>
       year: 2018
       description:  The award 'honors the author(s) of an especially meritorious paper dealing with a subject related to the technical scope of the Societies and who, upon the date of submission of the paper, is less than 30 years of age.'
 
@@ -71,8 +64,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
