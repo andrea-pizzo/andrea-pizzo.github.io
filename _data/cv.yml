@@ -14,10 +14,14 @@
     - title: PhD in Information Engineering
       institution: University of Pisa, Italy
       year: Apr 2019
-      description: Prof. Luca Sanguinetti.
+      description: 
+        - <a href="https://people.unipi.it/luca_sanguinetti/">Prof. Luca Sanguinetti</a>.
     - title: M.Sc. in Telecommunications Engineering
       institution: University of Pisa, Italy
       year: Dec 2013
+    - title: B.Sc. in Telecommunications Engineering
+      institution: University of Pisa, Italy
+      year: Dec 2010
 
 - title: Experience
   type: time_table
@@ -53,14 +57,8 @@
       year: 2018
       description:  The award 'honors the author(s) of an especially meritorious paper dealing with a subject related to the technical scope of the Societies and who, upon the date of submission of the paper, is less than 30 years of age.'
 
-- title: Academic Interests
-  type: nested_list
+- title: Academic Services
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-wcl">IEEE Wireless Communications Letters</a>
+     year: Mar 2023 - Current.
