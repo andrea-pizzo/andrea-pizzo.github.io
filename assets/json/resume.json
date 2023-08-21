@@ -37,9 +37,9 @@
   "education": [
     {
       "institution": "University of Pisa, Italy",
-      "url": "https://www.uzh.ch/",
-      "area": "Information Engineering",
-      "studyType": "PhD",
+      "url": "https://www.unipi.it/",
+      "area": "Advisor: Prof. Luca Sanguinetti",
+      "studyType": "PhD in Information Engineering",
       "startDate": "2015-01-11",
       "endDate": "2019-18-04",
       "score": "",
@@ -50,10 +50,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Young Author Best Paper Award 2018",
+      "date": "2018-08-22",
+      "url": "https://italy.ieeer8.org/young-author-best-paper-award-2018/",
+      "awarder": "IEEE ComSoc/VTS (Italy Chapter)",
+      "summary": "The award 'honors the author(s) of an especially meritorious paper dealing with a subject related to the technical scope of the Societies and who, upon the date of submission of the paper, is less than 30 years of age.'"
     }
   ],
   "certificates": [],
