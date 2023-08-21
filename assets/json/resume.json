@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Andrea Pizzo",
+    "label": "Postdoc",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "andrea.pizzo@upf.edu",
+    "summary": "An Italian-born electrical engineer conducting research at the intersection of communications and electromagnetism.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -38,15 +36,15 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "University of Pisa, Italy",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Information Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2015-01-11",
+      "endDate": "2019-18-04",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Energy efficient cellular networks for 5G communications systems"
       ]
     }
   ],
@@ -63,12 +61,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [],
