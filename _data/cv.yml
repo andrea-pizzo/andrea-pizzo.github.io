@@ -11,19 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Information Engineering
       institution: University of Pisa, Italy
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - title: Advisor: Prof. Luca Sanguinetti.
+        - title: Title: "Energy efficient cellular networks for 5G communications systems".
+    - title: M.Sc. in Telecommunications Engineering
+      institution: University of Pisa, Italy
+      year: 2013
       description:
         - Description 1.
         - Description 2.
@@ -71,13 +67,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Young Author Best Paper Award 2018
 
 - title: Academic Interests
   type: nested_list
