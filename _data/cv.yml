@@ -13,43 +13,37 @@
   contents:
     - title: PhD in Information Engineering
       institution: University of Pisa, Italy
-      year: 2019
+      year: Apr 2019
     - title: M.Sc. in Telecommunications Engineering
       institution: University of Pisa, Italy
-      year: 2013
+      year: Dec 2013
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Associate
       institution: Universitat Pompeu Fabra, Spain
-      year: 2021 - Current
+      year: Oct 2021 - Current
       description:
-        - Prof. Angel Lozano.
-        - Near field communications and smart radio environments.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Advisor: Prof. Angel Lozano.
 
     - title: Postdoctoral Associate
       institution: New York University, USA
-      year: 2019 - 2021
+      year: May 2019 - May 2021
       description:
-        - Prof. Thomas Marzetta.
-        - Physical channel modeling and holographic MIMO communications.
+        - Advisor: Prof. Thomas Marzetta.
 
     - title: Visiting Ph.D. Scholar
       institution: New York University, USA
-      year: 2018
+      year: Apr 2018 - Sep 2018
       description:
-      - Prof. Thomas Marzetta.
-      - Beyond 5G communications.
+      - Host: Prof. Thomas Marzetta.
 
     - title: Research Assistant
       institution: Delft University of Technology, The Netherlands
-      year: 2014 - 2015
-      description: Wireless localization of autonomous underwater vehicles.
+      year: Oct 2014 - Oct 2015
+      description: 
+      - Advisor: Prof. Geert Leus.
 
 - title: Open Source Projects
   type: time_table
@@ -61,13 +55,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Young Author Best Paper Award by the IEEE ComSoc/VTS (Italy Chapter)
+      year: 2018
+      description:  The award 'honors the author(s) of an especially meritorious paper dealing with a subject related to the technical scope of the Societies and who, upon the date of submission of the paper, is less than 30 years of age.'
 
 - title: Academic Interests
   type: nested_list
