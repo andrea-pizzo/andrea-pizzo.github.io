@@ -22,14 +22,36 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Universitat Pompeu Fabra, Spain",
+      "position": "Postdoctoral Associate",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2021-10-01",
+      "endDate": "Current",
+      "summary": "Advisor: Prof. Angel Lozano",
       "highlights": [
-        "Relativity"
+        "Near field communications and smart radio environments."
+      ]
+    }
+    {
+      "name": "New York University, USA",
+      "position": "Postdoctoral Associate",
+      "url": "https://example.com",
+      "startDate": "2019-05-01",
+      "endDate": "2021-05-01",
+      "summary": "Advisor: Prof. Thomas Marzetta",
+      "highlights": [
+        "Physical channel modeling and holographic MIMO communications."
+      ]
+    }
+    {
+      "name": "New York University, USA",
+      "position": "Visiting Ph.D. Scholar",
+      "url": "https://example.com",
+      "startDate": "2018-04-01",
+      "endDate": "2018-09-01",
+      "summary": "Advisor: Prof. Thomas Marzetta",
+      "highlights": [
+        "Beyond 5G communications."
       ]
     }
   ],
@@ -55,9 +77,6 @@
       "url": "https://italy.ieeer8.org/young-author-best-paper-award-2018/",
       "awarder": "IEEE ComSoc/VTS (Italy Chapter)",
       "summary": "The award 'honors the author(s) of an especially meritorious paper dealing with a subject related to the technical scope of the Societies and who, upon the date of submission of the paper, is less than 30 years of age.'"
-      "courses": [
-        "A. Pizzo, D. Verenzuela, L. Sanguinetti and E. Björnson, "Network deployment for maximal energy efficiency in uplink with multislope path loss," in IEEE Trans. Green Commun. Netw., vol. 2, no. 3, pp. 735-750, Sept. 2018, doi: 10.1109/TGCN.2018.2839346."
-      ]
     }
   ],
   "certificates": [],
